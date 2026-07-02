@@ -1,1 +1,1 @@
-https://app.ottv.site/login.php
+https://app.ottv.site/
